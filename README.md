@@ -24,10 +24,9 @@ There is **no backend functionality** — it is **UI only**, built for learning 
 
 ## 📷 Screenshots
 
-**Home Screen**  
-![Home Screen Screenshot](![![Uploading image.png…]()
-]()
-)  
+## 📷 Screenshot
+
+![![Uploading image.png…]()]
 
 ---
 
