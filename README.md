@@ -18,21 +18,11 @@ There is **no backend functionality** — it is **UI only**, built for learning 
 - **Product Categories / Boxes** layout  
 - **Footer section** similar to Amazon  
 - **Responsive Design** for desktop & mobile  
-- Pure **HTML, CSS, JavaScript** implementation  
-
----
-
-## 🛠 Tech Stack
-- **HTML5** 🧩  
-- **CSS3** 🎨  
-- **JavaScript (ES6)** ⚡  
+- Pure **HTML, CSS, JavaScript** implementation   
 
 ---
 
 ## 📷 Screenshots
-*(Add a screenshot of your homepage here for better presentation)*  
-
-Example:  
 
 **Home Screen**  
 ![Home Screen Screenshot](![Uploading image.png…]()
